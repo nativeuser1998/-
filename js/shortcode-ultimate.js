@@ -1,0 +1,1 @@
+jQuery(document).ready((function(d){"use strict";d("body").addClass("su-shortcodes-loaded")}));
